@@ -17,7 +17,6 @@
             e.style.cssText =
                 "font-size: 19px;" +
                 "line-height: 1.5em;" +
-                "max-width: 40em;" +
                 "-webkit-hyphens: auto;" +
                 "hyphens: auto;"
             ;
