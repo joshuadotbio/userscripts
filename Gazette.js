@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        Gazette
 // @description This is your new file, start writing code
-// @include       *://www.officialgazette.gov.ph/*
+// @match       http*://www.officialgazette.gov.ph/*
 // ==/UserScript==
 (() => {
     "use strict";
