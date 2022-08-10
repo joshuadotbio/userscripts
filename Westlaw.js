@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        Westlaw
 // @description Make Westlaw Classic easier to read
-// @match       http*://*.westlaw.com/*
+// @match       *://*.westlaw.com/*
 // ==/UserScript==
 (() => {
     "use strict";
